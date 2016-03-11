@@ -124,3 +124,7 @@ alias wholisten='sudo netstat -antulp | grep LISTE'
 alias stx='/home/sgault/OVH/bin/stx'
 # z3 alias
 alias z3='/usr/bin/ssh z3.ovh.net -t -- '
+
+# Go path
+export GOPATH=~/go
+export GOROOT=/home/sgault/OVH/bin/go
