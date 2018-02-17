@@ -127,4 +127,4 @@ alias z3='/usr/bin/ssh z3.ovh.net -t -- '
 
 # Go path
 export GOPATH=~/go
-export GOROOT=/home/sgault/OVH/bin/go
+export GOROOT=/home/sgault/bin/go
